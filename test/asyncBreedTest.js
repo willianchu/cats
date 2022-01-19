@@ -23,5 +23,4 @@ describe('#breedDetailsFromFile', () => {
       });
     });
   });
-
 }); // end describe
